@@ -1,9 +1,9 @@
 // Write your solution here!
 const pet = ["Milo", "Otis", "Garfield"]; 
-pet.push('odie'); 
+pet.push('Odie'); 
 pet;
 
-pet.unshift("odie");
+pet.unshift("Odie");
 pet;
 
 const removeLast = ["Milo", "Otis", "Garfield"];
