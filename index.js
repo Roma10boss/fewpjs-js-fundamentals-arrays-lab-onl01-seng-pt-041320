@@ -3,8 +3,6 @@ const pet = ["Milo", "Otis", "Garfield"];
 pet.push('odie'); 
 pet;
 
-
-const pet = ["Milo", "Otis", "Garfield"];
 pet.unshift("odie");
 prt;
 
