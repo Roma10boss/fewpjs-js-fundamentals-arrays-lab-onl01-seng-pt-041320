@@ -4,7 +4,7 @@ pet.push('odie');
 pet;
 
 pet.unshift("odie");
-prt;
+pet;
 
 const removeLast = ["Milo", "Otis", "Garfield"];
 removeLast.pop();
