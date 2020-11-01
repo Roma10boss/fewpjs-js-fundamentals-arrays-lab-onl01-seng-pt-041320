@@ -1,7 +1,7 @@
 // Write your solution here!
-const append = ["Milo", "Otis", "Garfield"]; 
-append.push('odie'); 
-append;
+const pet = ["Milo", "Otis", "Garfield"]; 
+pet.push('odie'); 
+
 
 const prepend = ["Milo", "Otis", "Garfield"];
 prepend.unshift("odie");
